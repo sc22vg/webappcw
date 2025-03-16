@@ -1,5 +1,6 @@
 import requests
 import json
+from json.decoder import JSONDecodeError
 
 BASE_URL = "https://sc22vg.pythonanywhere.com"
 session = requests.Session() 

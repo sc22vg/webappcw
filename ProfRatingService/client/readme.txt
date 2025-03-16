@@ -14,3 +14,4 @@ Admin Account:
     Password: 'password123!'
 
 Note - When logging in, use 'https://sc22vg.pythonanywhere.com' as the URL.
+     - the module 'code' is just the last 3 digits of the module code in the tables e.g. code of module COMP2011 is 011 when querying for professors rating in a module
